@@ -1,6 +1,4 @@
-# Welcome to Remix!
-
-- 📖 [Remix docs](https://remix.run/docs)
+# Welcome to My Remix js E-commerce Store Website!
 
 ## Development
 
